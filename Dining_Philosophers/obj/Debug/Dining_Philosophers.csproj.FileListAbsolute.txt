@@ -1,0 +1,9 @@
+c:\users\propietario\documents\visual studio 2015\Projects\Dining_Philosophers\Dining_Philosophers\bin\Debug\Dining_Philosophers.exe.config
+c:\users\propietario\documents\visual studio 2015\Projects\Dining_Philosophers\Dining_Philosophers\bin\Debug\Dining_Philosophers.exe
+c:\users\propietario\documents\visual studio 2015\Projects\Dining_Philosophers\Dining_Philosophers\bin\Debug\Dining_Philosophers.pdb
+c:\users\propietario\documents\visual studio 2015\Projects\Dining_Philosophers\Dining_Philosophers\obj\Debug\Dining_Philosophers.csprojResolveAssemblyReference.cache
+c:\users\propietario\documents\visual studio 2015\Projects\Dining_Philosophers\Dining_Philosophers\obj\Debug\Dining_Philosophers.Form1.resources
+c:\users\propietario\documents\visual studio 2015\Projects\Dining_Philosophers\Dining_Philosophers\obj\Debug\Dining_Philosophers.Properties.Resources.resources
+c:\users\propietario\documents\visual studio 2015\Projects\Dining_Philosophers\Dining_Philosophers\obj\Debug\Dining_Philosophers.csproj.GenerateResource.Cache
+c:\users\propietario\documents\visual studio 2015\Projects\Dining_Philosophers\Dining_Philosophers\obj\Debug\Dining_Philosophers.exe
+c:\users\propietario\documents\visual studio 2015\Projects\Dining_Philosophers\Dining_Philosophers\obj\Debug\Dining_Philosophers.pdb
